@@ -1,3 +1,0 @@
-LLC "Help", Degerov I.L.,Orphanage,123456
-IP Burov Ivan,Iverova M.Z.,Landscaping,876554
-JSC "LLLL",Kamysho T.U.,Prosthetics,345672
